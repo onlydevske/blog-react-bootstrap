@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-starter",
-  "homepage": "http://ChrisAchinga.github.io/react-bootstrap-starter",
+  "name": "blog-react-bootstrap",
+  "homepage": "http://ChrisAchinga.github.io/blog-react-bootstrap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
