@@ -7,12 +7,11 @@ import './App.css'
 const App = () => {
   return (
     <>
+      <Container>
+        <Header />
+      </Container>
       <Menu />
-      <main>
-        <Container>
-          <Header />
-        </Container>
-      </main>
+      <main></main>
     </>
   )
 }
